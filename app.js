@@ -116,7 +116,7 @@ let html = `<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <title>Team Profile Generator</title>
+    <title>Team Summary Generator</title>
     <style>
         .row {
             display: flex;
@@ -147,7 +147,7 @@ let html = `<!DOCTYPE html>
 </head>
 <body>
     <nav class="navbar navbar-light bg-light justify-content-center align-items-center">
-        <span class="navbar-brand mb-0 h1"><h1>Team Profile</h1></span>
+        <span class="navbar-brand mb-0 h1"><h1>Team Summary</h1></span>
     </nav>
     <div class="row">
         <div class="card bg-light justify-content-center align-items-center" style="width: 18rem;">
