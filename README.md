@@ -15,7 +15,9 @@ This application includes
 - Beginning with the code, node app.js, a user can be prompted to fill in all of their employees information to create a Team Profile
 
 # GIF of Application
-![]()
-![]()
+![](Assets/firstgif.gif)
+![](Assets/secondgif.gif)
+![](Assets/thirdgif.gif)
 
 # GIF of Passed Tests 
+![](Assets/passedtests.gif) 
