@@ -12,7 +12,7 @@ const Manager = require("./lib/manager");
 function startPrompt() {
     const userArray = [{
         type: "input",
-        message: "Input Name",
+        message: "What is your name?",
         name: "name"
     }, {
         type: "input",
@@ -24,7 +24,7 @@ function startPrompt() {
         name: "email"
     }, {
         type: "list",
-        message: "Input Title",
+        message: "What is your title?",
         choices: ["Manager", "Engineer", "Intern"],
         name: "title"
     }];
