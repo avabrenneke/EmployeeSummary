@@ -1,0 +1,22 @@
+{
+  "name": "employeesummary",
+  "version": "1.0.0",
+  "description": "bootcamp assignment 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avabrenneke/EmployeeSummary.git"
+  },
+  "author": "Ava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avabrenneke/EmployeeSummary/issues"
+  },
+  "homepage": "https://github.com/avabrenneke/EmployeeSummary#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
